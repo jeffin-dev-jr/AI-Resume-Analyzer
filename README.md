@@ -113,15 +113,31 @@ JWT_SECRET=your_secret_key
 
 ### Home Page
 
-![Home Page](screenshots/home-page.png)
+![Home Page](screenshots/1_Home_page.png)
 
-### Dashboard
+### Upload Resume Page
 
-![Dashboard](screenshots/dashboard.png)
+![Upload Page](screenshots/2_Upload_page.png)
 
-### Resume Analysis
+### Job Recommendation Page
 
-![Resume Analysis](screenshots/resume-analysis.png)
+![Job Page](screenshots/3_Job_page.png)
+
+### Course Recommendation Page
+
+![Course Page](screenshots/4_Course_page.png)
+
+### Resume Analysis Page
+
+![Analysis Page](screenshots/5_Analysis_page.png)
+
+### Analysis Result Page
+
+![Analysis Result](screenshots/6_Analysis_page2.png)
+
+### MongoDB Cluster
+
+![MongoDB Cluster](screenshots/7_MongoDb_cluster.png)
 
 ---
 
